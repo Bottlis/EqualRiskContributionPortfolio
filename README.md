@@ -1,5 +1,7 @@
 #Equal Risk Contribution Portfolio
 
-Constructed based on paper of Farid Moussaoui, change to equal risk across industry sector after backtesting
+Constructed based on paper of Farid Moussaoui, with modification from equal risk for all stocks to equal risk across industry sectors
 
-Author: Jack Ye, ...
+Author: Kyle Davis, Lauren Esrig, Alejandro Rioja, Muling Si, Kay Toma, Jack Ye, Ed Young and Rowena Zhang 
+
+Under construction
