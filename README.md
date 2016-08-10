@@ -1,3 +1,5 @@
-#Equal Risk Contribution Portfolio Construction
+#Equal Risk Contribution Portfolio
 
-Author: Jack Ye
+Constructed based on paper, change to equal risk across industry sector after backtesting
+
+Author: Jack Ye, ...
